@@ -1,0 +1,32 @@
+body{
+background-color: black;
+    overflow: hidden;
+    
+}
+
+.fab{
+    outline: inherit;
+    animation-direction: reverse;
+    padding-left: 5px;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+    text-decoration-color: white;
+    color: #fff;
+}
+p{
+   color:  #fff;
+    font-family: cursive;
+}
+.navbar{
+    font-family: cursive;
+    font-size-adjust: auto;
+}
+
+
+.navbar-nav a{
+  padding: 2px 8px 2px;
+    text-decoration-line: none;
+}
